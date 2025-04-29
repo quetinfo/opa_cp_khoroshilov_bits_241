@@ -1,0 +1,3 @@
+﻿  FileName.c
+F:\ВГТУ\первый курс\опа\КурсовойПроект\OPA_CP\FileName.c(164,15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OPA_CP.vcxproj -> F:\ВГТУ\первый курс\опа\КурсовойПроект\OPA_CP\x64\Debug\OPA_CP.exe
